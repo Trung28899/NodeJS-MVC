@@ -55,6 +55,6 @@ III. Module Notes:
                 > see ./controllers/products.js for 
                    callBack()
 
-        
-IV. Other Notes: 
-    
+    4. Refactoring code in ./models/products.js: 
+        - Code in 5th Commit
+        - See code in ./models/products.js    
