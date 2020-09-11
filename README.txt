@@ -10,7 +10,7 @@ II. Core Concepts:
 
     1. What does MVC means: 
         - MVC stands for Model, View and Controller
-        
+
         - MVC is a software pattern that divides code logic
         into 3 parts Modal, Views and Controller: 
             +, Models: Working with your data (save data, fetch, 
@@ -26,6 +26,14 @@ II. Core Concepts:
 
     
 III. Module Notes: 
+    1. Using MVC: setting up Controller 
+        - Code in 2nd Commit
+        - See Controller/products.js and Controller/error.js
+            > This is how you set up Controller
+        - See app.js for 404 page
+        - See routes/admin.js and routes/shop.js 
+            for products handling using Controller
+            > This is how you import and use Controller
         
 IV. Other Notes: 
     
