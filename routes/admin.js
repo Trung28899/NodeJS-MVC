@@ -1,7 +1,6 @@
 const express = require("express");
 const router = express.Router();
 
-// Importing the controller for usage
 const productController = require("../controllers/products");
 
 // /admin/add-product => GET

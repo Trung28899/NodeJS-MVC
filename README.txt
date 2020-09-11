@@ -41,6 +41,20 @@ III. Module Notes:
         export a models
         - See controller/products.js to see how
         to import and use the models
+    
+    3. Storing and Fetching data from files via the Model: 
+        - Code in 4th Commit
+
+        - See ./models/product.js: 
+
+            +, Under save() to see how to Store data 
+               from file via the Models
+        
+            +, Under fetchAll() to see how to fetch data 
+               from file via the models
+                > see ./controllers/products.js for 
+                   callBack()
+
         
 IV. Other Notes: 
     
