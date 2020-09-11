@@ -26,14 +26,21 @@ II. Core Concepts:
 
     
 III. Module Notes: 
-    1. Using MVC: setting up Controller 
+    1. Setting up Controller:
         - Code in 2nd Commit
-        - See Controller/products.js and Controller/error.js
+        - See controller/products.js and controller/error.js
             > This is how you set up Controller
         - See app.js for 404 page
         - See routes/admin.js and routes/shop.js 
             for products handling using Controller
             > This is how you import and use Controller
+    
+    2. Setting up Models: 
+        - Code in 3rd Commit
+        - See models/product.js to see how to
+        export a models
+        - See controller/products.js to see how
+        to import and use the models
         
 IV. Other Notes: 
     
